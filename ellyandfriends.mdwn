@@ -1,0 +1,54 @@
+<!-- heading in mark down -->
+
+# heading 1
+
+## heading 2
+
+### heading 3
+
+#### heading 4
+
+##### heading 5
+
+###### heading 6
+
+<!-- italics -->
+
+*this is how you write italic*
+
+_you can also use underscore_
+
+<!-- bold texting  -->
+
+**this is how you write bold**
+
+__and also two underscores for bold__
+
+<!-- strickthrough -->
+
+~~this text~~
+
+<!-- Links -->
+[this is lifelong](https://www.lifelong.eco)
+
+<!-- Horizontal rule  -->
+
+---
+___
+
+---
+jjjj
+
+
+
+
+
+
+
+
+ojojo]]
+
+jojoj
+
+joj
+
